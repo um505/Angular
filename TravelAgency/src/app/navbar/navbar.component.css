@@ -1,0 +1,13 @@
+.bg-dark{
+    background-color: transparent !important;
+}
+
+.navbar-custom {
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+

@@ -1,0 +1,9 @@
+.content{
+    font-size: 1.5vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+.content:hover {
+   width: 102%;
+    
+    }
